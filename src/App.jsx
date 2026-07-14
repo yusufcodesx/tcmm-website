@@ -1,5 +1,6 @@
 import TcmmHero from "./TcmmHero"
 import TcmmNavbar from "./TcmmNavbar"
+import TcmmFAQ from "./TcmmFAQ"
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <TcmmNavbar />
       <TcmmHero />
+      <TcmmFAQ />
     </>
   )
 }
